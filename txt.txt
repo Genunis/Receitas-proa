@@ -1,0 +1,9 @@
+Fala Pessoal, Boa tarde!!!
+
+Pra essa atividade, quero que vocês criem uma pagina HTML contendo 3 links internos que levem pra algumas receitas do gosto de vocês. lembrando que cada receita tem a sua própria pagina. 
+
+Tem que conter um titulo, a imagem do que vai ser preparado, falar os ingredientes e o modo de preparo. Tem que conter também e um link de chamado retornar ao menu, para voltar para pagina inicial, tudo isso usando corretamente as tags semânticas!!
+
+**OBS.: para aqueles que fizeram a atividade em sala, só precisa adicionar as tags semânticas agora.
+
+Grande abraço!!!
